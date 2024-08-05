@@ -1,5 +1,7 @@
 **Padloc-output-parser.py** Parses padloc output to replace seqid with the filename that also includes the prophages coordinates
 
+**download-seqs.sh** Download sequences from Pseudomonas.com database. Needs a list of genome-urls extracted from the table that can be downloaded from Pseudomonas.com
+
 **PARSEC.sh** Uses PhiSpy.py to predict prophages, then groups them by ANICluster
 Dependencies: \
 1)fastANI and ANIClustermap(https://github.com/moshi4/ANIclustermap/tree/main) \
