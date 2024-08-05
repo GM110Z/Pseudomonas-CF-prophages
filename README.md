@@ -7,3 +7,4 @@ Dependencies: \
 1)fastANI and ANIClustermap(https://github.com/moshi4/ANIclustermap/tree/main) \
 2)fastani-to-clusters.py -- arguments are Threshold ID, ANICluster matrix, filename of output \
 
+**padloc-output-parser.py** Process the padloc output that was run on prophages to specify which region of the seqid was considered (and then extracts it to use it further)
